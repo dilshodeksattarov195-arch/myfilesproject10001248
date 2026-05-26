@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productspdate",
+        "uuid": 5366400,
+        "checksum": "lfc4mc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
